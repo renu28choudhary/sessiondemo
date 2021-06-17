@@ -1,3 +1,7 @@
 hi all, good evening.
 i am Renu
-today's session is about git
+today's session is about git.
+today i did my first commit and now iam pulling my file from central repo to local repo.
+
+
+
